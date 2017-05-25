@@ -15,7 +15,7 @@ var items = [
 	"Sign In",
 	"How it Work",
 	"Intelligent App",
-	"Citis",
+	"Cities",
 	"Our clients"
 ];
 
